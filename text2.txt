@@ -1,0 +1,13 @@
+git  status
+git add text2.text2
+git commit -m" comments"
+git push origin main
+
+git pull
+cd ..
+cd  new file name
+git init
+
+git add.  # code add multiple file
+
+
