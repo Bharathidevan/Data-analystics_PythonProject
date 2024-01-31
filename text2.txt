@@ -1,3 +1,4 @@
+git clone "paste origin link from github"
 git  status
 git add text2.text2
 git commit -m" comments"
@@ -20,5 +21,7 @@ git checkout main                           ## go to the main branch
 git diff gitbranch1
 git merge gitbranch1
 git push origin main
+
+Press Q for if yoy stuck
 
 
