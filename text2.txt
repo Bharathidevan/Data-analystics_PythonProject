@@ -9,5 +9,16 @@ cd  new file name
 git init
 
 git add.  # code add multiple file
+git add remote origin Link of the new repository file
+#### Branch
+git branch -M main ## to chnage the master mode to main
+git push origin
+ 
+git branch -a                                                                        ### to check the branch 
+git checkout gitbranch1                                                    ## go to gitbranch1
+git checkout main                           ## go to the main branch
+git diff gitbranch1
+git merge gitbranch1
+git push origin main
 
 
